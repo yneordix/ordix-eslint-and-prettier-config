@@ -1,0 +1,21 @@
+{
+  "name": "ordix-eslint-and-prettier-config",
+  "version": "1.0.3",
+  "babel": {
+    "presets": [
+      "@babel/typescript"
+    ]
+  },
+  "dependencies": {
+    "@babel/eslint-parser": "^7.18.2",
+    "@babel/preset-typescript": "^7.16.7",
+    "@babel/core": "^7.18.2",
+    "@typescript-eslint/parser": "^5.22.0",
+    "@typescript-eslint/eslint-plugin": "^5.22.0",
+    "eslint": "^7.26.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.0",
+    "typescript": "^4.6.4"
+  }
+}
